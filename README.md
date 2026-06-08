@@ -117,19 +117,25 @@ spacex/dragon/oxigenio
 
 ---
 
-## 📷 Demonstração
+## 📷 Circuito
 
-### Circuito
+![Circuito](imagens/circuito-wokwi.png)
 
-Adicionar imagem do circuito Wokwi.
+## 📟 Monitor Serial
 
-### Monitor Serial
+![Monitor](imagens/monitor-serial.png)
 
-Adicionar captura do monitor serial.
+## 🏗️ Arquitetura
 
-### Dashboard
+![Arquitetura](imagens/arquitetura.png)
 
-Adicionar imagem do dashboard.
+## 🔗 Simulação Wokwi
+
+[https://wokwi.com/projects/SEU_PROJETO](https://wokwi.com/projects/466215378649175041)
+
+## 🔗 Repositório GitHub
+
+https://github.com/Ven900/GS_Edge_Computing_Computer_Systems
 
 ---
 
