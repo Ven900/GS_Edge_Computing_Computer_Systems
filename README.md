@@ -134,7 +134,7 @@ spacex/dragon/oxigenio
 
 Dashboard desenvolvido em HTML, CSS e JavaScript para monitoramento em tempo real dos dados de telemetria.
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🔗 Simulação Wokwi
 
