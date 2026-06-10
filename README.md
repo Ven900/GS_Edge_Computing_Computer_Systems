@@ -130,6 +130,12 @@ spacex/dragon/oxigenio
 
 ![Arquitetura](arquitetura.png)
 
+## 📊 Dashboard
+
+Dashboard desenvolvido em HTML, CSS e JavaScript para monitoramento em tempo real dos dados de telemetria.
+
+![Dashboard](imagens/dashboard.png)
+
 ## 🔗 Simulação Wokwi
 
 [https://wokwi.com/projects/SEU_PROJETO](https://wokwi.com/projects/466215378649175041)
