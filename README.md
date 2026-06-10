@@ -123,7 +123,7 @@ imagens_circuito_wokwi.png.
 
 ## 📟 Monitor Serial
 
-![Monitor](imagens/monitor-serial.png)
+imagens_circuito_wokwi.png
 
 ## 🏗️ Arquitetura
 
