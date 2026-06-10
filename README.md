@@ -124,6 +124,7 @@ spacex/dragon/oxigenio
 ## 📟 Monitor Serial
 
 ![Monitor Serial](monitor-serial.png)
+![Monitor Serial 2](monitor-serial-2.png)
 
 ## 🏗️ Arquitetura
 
