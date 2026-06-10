@@ -128,7 +128,7 @@ spacex/dragon/oxigenio
 
 ## 🏗️ Arquitetura
 
-![Arquitetura](imagens/arquitetura.png)
+![Arquitetura](arquitetura.png)
 
 ## 🔗 Simulação Wokwi
 
