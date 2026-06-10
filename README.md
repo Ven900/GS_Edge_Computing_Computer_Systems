@@ -123,7 +123,7 @@ spacex/dragon/oxigenio
 
 ## 📟 Monitor Serial
 
-imagens_circuito_wokwi.png
+![Monitor Serial](monitor-serial.png)
 
 ## 🏗️ Arquitetura
 
