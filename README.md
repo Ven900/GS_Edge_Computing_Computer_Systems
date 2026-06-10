@@ -152,10 +152,6 @@ https://github.com/Ven900/GS_Edge_Computing_Computer_Systems
 GS_Edge_Computing_Computer_Systems
 │
 ├── README.md
-├── sketch.ino
-├── diagram.json
-├── libraries.txt
-├── wokwi.toml
 │
 ├── imagens
 │   ├── circuito-wokwi.png
@@ -163,8 +159,7 @@ GS_Edge_Computing_Computer_Systems
 │   ├── dashboard.png
 │   └── arquitetura.png
 │
-└── docs
-    └── apresentacao.pdf
+└── dashboard.html
 ```
 
 ---
