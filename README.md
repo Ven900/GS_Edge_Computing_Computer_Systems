@@ -119,7 +119,7 @@ spacex/dragon/oxigenio
 
 ## 📷 Circuito
 
-imagens_circuito_wokwi.png.
+![Circuito](imagens_circuito_wokwi.png)
 
 ## 📟 Monitor Serial
 
